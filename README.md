@@ -17,7 +17,8 @@ The goal: maximize reward while minimizing risk through disciplined, rule-based 
 ✅ **Risk management built-in** — Fixed fractional sizing, stop loss, take profit.  
 ✅ **Two main modes**  
   - 🧪 `backtest` → run strategy on historical data  
-  - 💵 `paper` → live simulation using real-time candles  
+  - 💵 `paper` → live simulation using real-time candles
+    
 ✅ **Logging & visualization** — CSV trade/equity logs + live equity charts  
 ✅ **Ready for deployment** — Works with `systemd`, `tmux`, or Docker for 24/7 uptime  
 
